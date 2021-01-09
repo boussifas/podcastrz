@@ -1,0 +1,5 @@
+Podcastrz.db
+appsettings.json
+appsettings.Development.json
+/obj/*
+.vscode

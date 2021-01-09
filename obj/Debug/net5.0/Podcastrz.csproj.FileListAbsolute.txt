@@ -193,3 +193,14 @@
 /home/boussifas/Documents/others/Podcast_rz/Podcastrz/obj/Debug/net5.0/ref/Podcastrz.dll
 /home/boussifas/Documents/others/Podcast_rz/Podcastrz/obj/Debug/net5.0/Podcastrz.pdb
 /home/boussifas/Documents/others/Podcast_rz/Podcastrz/obj/Debug/net5.0/Podcastrz.genruntimeconfig.cache
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/AutoMapper.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/IdentityModel.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/IdentityServer4.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/IdentityServer4.AspNetIdentity.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/IdentityServer4.EntityFramework.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/IdentityServer4.EntityFramework.Storage.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/IdentityServer4.Storage.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/home/boussifas/Documents/others/Podcast_rz/Podcastrz/obj/Debug/net5.0/Razor/Pages/Podcast/create.cshtml.g.cs
